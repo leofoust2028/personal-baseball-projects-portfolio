@@ -6,7 +6,7 @@ Personal baseball analytics projects exploring player performance, strategy, and
 Comparing outfield range and throwing value using 2025 MLB data,
 regression, cross-validation, and sensitivity checks.
 
-[View project](PASTE_OUTFIELD_REPOSITORY_URL)
+[View project](https://github.com/leofoust2028/arms-vs-legs-OF-analysis)
 
 ### MLB Pitcher Archetypes
 Exploring pitcher profiles through pitch movement, spin characteristics,
@@ -15,4 +15,4 @@ Includes checks of cluster stability and data coverage.
 
 Originally developed November–December 2025; updated June 2026.
 
-[View project](PASTE_PITCHER_REPOSITORY_URL)
+[View project](https://github.com/leofoust2028/MLB-Pitcher-Archetypes)
